@@ -1,0 +1,84 @@
+HIMANSHU AGRAWAL
+agrawalhimanshu464@gmail.com | 7999253264
+LinkedIn: https://www.linkedin.com/in/himanshu-agrawal-8029b1278/
+GitHub: https://github.com/agrawal464
+
+---
+
+SUMMARY
+B.Tech CSE student with strong problem-solving skills, full-stack web development expertise, and competitive programming experience. Skilled in building scalable applications, writing high-quality testable code, and working in Agile teams.
+
+---
+
+EDUCATION
+Jaypee University of Engineering and Technology, Guna (MP)
+BTech - Computer Science and Engineering | July 2022 – June 2026
+CGPA: 7.4
+
+---
+
+SKILLS
+
+Programming Languages:
+JavaScript, Python, C, C++, Solidity
+
+Web Technologies:
+HTML, CSS, React.js, Node.js, Tailwind CSS, MongoDB, SQL
+
+Tools:
+VS Code, Git, GitHub, Postman
+
+Soft Skills:
+Team Collaboration, Agile, Problem Solving
+
+CS Concepts:
+Data Structures & Algorithms, OOPs, System Design, Agile, Web Services
+
+Additional:
+Familiarity with Generative AI concepts and cloud-based integrations
+
+---
+
+PROJECTS
+
+URL Shortener (Node.js, MongoDB, Express) | Feb 2025
+• Built a URL shortener with RESTful API reducing URL length by 70% and enabling persistent redirection
+• Designed and implemented a RESTful API to support the full lifecycle of shortening links
+
+FlexiPay (Next.js, TypeScript, Solidity) | Aug 2024
+• Developed FlexiPay, a decentralized payment platform with Ethereum transfers and privacy-preserving KYC using Anon Aadhaar
+• Integrated Anon Aadhaar for privacy-preserving KYC, ensuring secure identity verification without compromising anonymity
+• Implemented real-time transaction alerts using Soundbox for instant audio notifications
+
+Employee Management System (React.js, JavaScript, Tailwind CSS) | Dec 2024
+• Role-based access control (Admin & Employee)
+• Dashboard displays real-time task status: Completed, Pending, Failed, and New Tasks
+• Tasks persist using browser local storage for a seamless user experience
+
+Gemini Clone (React.js, JavaScript, Tailwind CSS)
+• UI clone inspired by Gemini/AI assistants with clean layouts and responsive design
+
+iPhone Website (JavaScript, HTML, CSS)
+• Modern landing page inspired by Apple with smooth sections and product-focused design
+
+Zentry (React.js, Tailwind CSS)
+• Visually-rich landing page with animations and modern styling
+
+---
+
+EXPERIENCE
+
+Co-Coding Leader | Rospinot Club
+• Led backend development in 3+ group projects, ensuring optimized database queries and scalable APIs
+• Organized "Bazinga" coding game at Techfest with 100+ participants
+• Built mini-projects using Raspberry Pi & Sense HAT with Python
+
+---
+
+ACHIEVEMENTS
+
+• Winner: Blockchain Track – Hack on Hills 6.0, NIT Hamirpur
+• Competitive Programming:
+  - Codeforces (Pupil) - https://codeforces.com
+  - LeetCode (250+ problems) - https://leetcode.com
+  - CodeChef (3★) - https://codechef.com
